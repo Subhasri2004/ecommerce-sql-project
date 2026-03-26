@@ -1,0 +1,8 @@
+﻿order_id,order_date,customer_name,country,product_name,category,quantity,unit_price,revenue
+101,10-01-2023,Rahul Sharma,India,Laptop,Electronics,1,800,800
+101,10-01-2023,Rahul Sharma,India,Headphones,Electronics,2,150,300
+102,15-01-2023,Priya Singh,India,Mobile,Electronics,1,500,500
+103,01-02-2023,John Smith,USA,Shoes,Fashion,2,120,240
+104,10-02-2023,Rahul Sharma,India,Watch,Accessories,1,200,200
+104,10-02-2023,Rahul Sharma,India,Mobile,Electronics,1,500,500
+105,05-03-2023,Ankit Verma,India,Laptop,Electronics,1,800,800
